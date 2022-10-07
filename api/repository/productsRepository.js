@@ -1,4 +1,4 @@
-import { products } from '../../factory/factory.js';
+import { products } from '../factory/factory.js';
 
 export default class ProductsRepository {
     #products;

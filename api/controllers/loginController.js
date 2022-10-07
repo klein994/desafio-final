@@ -1,4 +1,4 @@
-import service from "../../service/index.js";
+import service from "../service/index.js";
 import bCrypt from "bcrypt";
 import { generateToken } from "../jwt/jwt.js";
 

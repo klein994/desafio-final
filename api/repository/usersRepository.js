@@ -1,4 +1,4 @@
-import { users } from '../../factory/factory.js';
+import { users } from '../factory/factory.js';
 
 export default class UsersRepository {
     #users;

@@ -1,5 +1,5 @@
 
-import logger from "./../logs/index.js";
+import logger from "../../logs/index.js";
 
 export default class Service {
     #repoProducts;

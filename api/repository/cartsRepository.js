@@ -1,4 +1,4 @@
-import { carts } from '../../factory/factory.js';
+import { carts } from '../factory/factory.js';
 
 export default class UsersRepository {
     #carts;
